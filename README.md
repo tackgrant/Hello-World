@@ -2,7 +2,7 @@
 Introductory Repository
 
 ## Table of Contents
-[Project title](#project-title)
+[Description](#description)
 [Tools used](#tools-used)
 [Files used](#files-used)
 [Additional information](#additional-information)
