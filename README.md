@@ -2,6 +2,7 @@
 Introductory Repository
 
 ## Table of Contents
+
 [Description](#description)
 [Tools used](#tools-used)
 [Files used](#files-used)
