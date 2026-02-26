@@ -14,10 +14,11 @@ Repository practice setup
 Set up file for all future github submissions or projects. This general setup gives clear structure while also highlighting important features like embedded hyperlinks and inputs that help with file exploration
 
 ## Tools used
-1.Excel
-3.Python
-3.PowerBI
-4.SQL
+
+1. Excel
+3. Python
+3. PowerBI
+4. SQL
 
 ## Files used
 -
