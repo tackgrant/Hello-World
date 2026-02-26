@@ -2,15 +2,27 @@
 First Repository
 
 ## Table of Contents
-
+[Project title](#project-title)
+[Tools used](#tools-used)
+[Files used](#files-used)
+[Additional information](#additional-information)
 
 ## Project title
-# Description
+Repository practice setup
+## Description
+Set up file for all future github submissions or projects. This general setup gives clear structure while also highlighting important features like embedded hyperlinks and inputs that help with file exploration
 
-
-# tools used
+## Tools used
 -
 
-#files used
+## Files used
 -
+## How to run program
+-Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
 
+## Additional information
