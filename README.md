@@ -1,5 +1,5 @@
 # Hello-World
-First Repository
+Introductory Repository
 
 ## Table of Contents
 [Project title](#project-title)
