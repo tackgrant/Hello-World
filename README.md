@@ -1,15 +1,15 @@
 # Hello-World
-Introductory Repository
+*Introductory Repository*
 
 ## Table of Contents
 
-[Description](#description)
-[Tools used](#tools-used)
-[Files used](#files-used)
-[Additional information](#additional-information)
+- [Description](#description)
+- [Tools used](#tools-used)
+- [Files used](#files-used)
+- [Additional information](#additional-information)
 
 ## Project title
-Repository practice setup
+**Repository practice setup**
 ## Description
 Set up file for all future github submissions or projects. This general setup gives clear structure while also highlighting important features like embedded hyperlinks and inputs that help with file exploration
 
@@ -23,11 +23,6 @@ Set up file for all future github submissions or projects. This general setup gi
 ## Files used
 -
 ## How to run program
--Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+-Hello_World/── │── README.md│── pgmname1.R│── filename1.csv│── examples.html
 
 ## Additional information
